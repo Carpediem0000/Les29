@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Product" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElectronicProduct">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAACAAAAA=</HashCode>
+      <FileName>ElectronicProduct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FoodProduct">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>FoodProduct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MilkProduct">
+    <Position X="5.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAIAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MilkProduct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="9.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAACAIAAAAAAAcAEFQQAAAAQAAgABEAAgAAQAQAQ=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transistor">
+    <Position X="3" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAQAAAAAAAAAAAAAABAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Transistor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

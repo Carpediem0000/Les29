@@ -1,0 +1,11 @@
+﻿  Date.cpp
+Z:\Лучший\C++\lesson28\lesson29-1\lesson29-1\Date.cpp(184,11): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+Z:\Лучший\C++\lesson28\lesson29-1\lesson29-1\Date.cpp(195,11): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  ElectronicProduct.cpp
+  FoodProduct.cpp
+  main.cpp
+  MilkProduct.cpp
+  Product.cpp
+  Transistor.cpp
+  Generating Code...
+  lesson29-1.vcxproj -> Z:\Лучший\C++\lesson28\lesson29-1\x64\Debug\lesson29-1.exe
